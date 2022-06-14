@@ -8,7 +8,8 @@ If the applicant is likely to repay the loan, then not approving the loan result
 If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
 The data given below contains the information about the loan application at the time of applying for the loan. It contains two types of scenarios:
->>The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
+>>The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample
+
 >>All other cases: All other cases when the payment is paid on time. When a client applies for a loan, there are four types of decisions that could be taken by the client/company):
 
 Approved: The Company has approved loan Application
